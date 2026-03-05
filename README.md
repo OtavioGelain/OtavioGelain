@@ -33,10 +33,6 @@ I work mainly with **Node.js, TypeScript, JavaScript, SQL, and NoSQL**, and I’
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=OtavioGelain&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OtavioGelain&layout=compact&theme=tokyonight"/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=OtavioGelain&theme=tokyonight)](https://git.io/streak-stats)
-</p>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioGelain)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OtavioGelain&theme=tokyonight)](https://git.io/streak-stats)
 
