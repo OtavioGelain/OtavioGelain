@@ -33,6 +33,5 @@ I work mainly with **Node.js, TypeScript, JavaScript, SQL, and NoSQL**, and I’
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioGelain)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=OtavioGelain&theme=tokyonight)](https://git.io/streak-stats)
 
