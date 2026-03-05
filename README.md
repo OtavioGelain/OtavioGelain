@@ -21,7 +21,7 @@ I work mainly with **Node.js, TypeScript, JavaScript, SQL, and NoSQL**, and I’
 
 ---
 
-### Backend
+<h3>⚡ Backend</h3>
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
