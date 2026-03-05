@@ -14,9 +14,6 @@ I work mainly with **Node.js, TypeScript, JavaScript, SQL, and NoSQL**, and I’
   <a href="https://github.com/OtavioGelain">
     <img src="https://img.shields.io/badge/GitHub-OTAVIOGELAIN-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/_otavioz_">
-    <img src="https://img.shields.io/badge/Instagram-@_OTAVIOZ_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 ---
